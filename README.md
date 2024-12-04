@@ -1,6 +1,6 @@
 # Praktikum-8
 
-
+![](<Flowchart Nilai Mahasiswa_20241204_090619_089_65.jpg>)
 
 class Mahasiswa:
     def __init__(self):
