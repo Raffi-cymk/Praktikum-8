@@ -61,7 +61,9 @@ if __name__ == "__main__":
     # Tampilkan data lagi
     daftar_mahasiswa.tampilkan()
 
-Diagram Kelas
+# Diagram Kelas
+
+![](<Diagram Kelas Mahasiswa_20241207_044952_577_15.jpg>)
 
 Diagram kelas menjelaskan hubungan antara class dan atribut atau metode yang digunakan:
 
